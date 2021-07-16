@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neutron122770
 - 👀 I’m interested in Travelling and learning
-- 🌱 I’m currently learning Python&Graph
-- 💞️ I’m looking to collaborate on Python/Pyspark
+- 🌱 I’m currently learning Python&Graphs
+- 💞️ I’m looking to collaborate on Python, Pyspark & SQL
 - 📫 How to reach me rakesh122770@gmail.com
 
 <!---
